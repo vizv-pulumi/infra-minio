@@ -1,0 +1,3 @@
+name: infra-minio
+runtime: nodejs
+description: "Infrastructure: MinIO"
