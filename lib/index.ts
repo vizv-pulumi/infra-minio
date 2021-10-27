@@ -22,7 +22,7 @@ export class Minio extends pulumi.ComponentResource {
       'minio',
       {
         metadata: {
-          name: 'infra-minio-minio',
+          name: 'infra-minio',
         },
       },
       {
